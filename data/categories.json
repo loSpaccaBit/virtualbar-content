@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Guide",
+    "slug": "guide",
+    "description": "Guide complete e approfondite sul mondo dei bonus per casinò e scommesse online."
+  },
+  {
+    "name": "Bonus",
+    "slug": "bonus",
+    "description": "Articoli dedicati alle diverse tipologie di bonus per casinò e scommesse disponibili."
+  },
+  {
+    "name": "Sicurezza",
+    "slug": "sicurezza",
+    "description": "Tutto su sicurezza, licenze e gioco responsabile nel gioco online."
+  },
+  {
+    "name": "Pagamenti",
+    "slug": "pagamenti",
+    "description": "Guide sui metodi di pagamento accettati dagli operatori di gioco online."
+  }
+]
